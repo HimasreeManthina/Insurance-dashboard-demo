@@ -11,9 +11,8 @@ The goal is to **demonstrate my expertise in building secure, scalable, and clou
 ## 🛠️ Responsibilities (Accenture Experience Reflected Here)
 - Designed and developed **full-stack dashboards** using React.js, TypeScript, Spring Boot, and Node.js.  
 - Built **REST APIs and microservices** for secure data ingestion and retrieval.  
-- Optimized response times and improved backend performance.  
 - Automated deployments using **AWS CDK, Jenkins, and CI/CD pipelines**.  
-- Implemented **authentication & authorization** (JWT / AWS Cognito).  
+- Implemented **authentication & authorization** (JWT / Cognito).  
 - Enhanced SQL queries and automated **data validation pipelines**.  
 - Contributed to **performance testing, scalability improvements, and production support**.  
 - Mentored juniors, conducted **code reviews**, and followed Agile practices.  
@@ -22,8 +21,8 @@ The goal is to **demonstrate my expertise in building secure, scalable, and clou
 
 ## 🔧 Tech Stack Used in Demo
 - **Frontend:** React.js, TypeScript  
-- **Backend:** Spring Boot (Java), Node.js (Express)  
-- **Database:** PostgreSQL, MongoDB (for examples)  
+- **Backend:** Node.js (Express), Java Spring Boot (planned)  
+- **Database:** PostgreSQL, MongoDB (sample)  
 - **Cloud/DevOps:** AWS (CDK, Lambda, S3), Jenkins, GitHub Actions  
 - **Tools:** Postman, Swagger, Docker  
 
@@ -33,10 +32,6 @@ The goal is to **demonstrate my expertise in building secure, scalable, and clou
 
 ```mermaid
 graph TD
-  U[User] --> F[React.js Frontend]
-  F --> B[Spring Boot Backend]
-  B --> D[(PostgreSQL Database)]
-  B --> M[(MongoDB Analytics)]
-  B --> A[Authentication Service - JWT]
-  B --> C[Cloud Deployment - AWS CDK & Jenkins]
-
+  U[User] --> F[React Frontend]
+  F --> B[Express Backend]
+  B --> D[(Database - Mocked)]
