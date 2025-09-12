@@ -36,6 +36,7 @@ graph TD
   U[User] --> F[React.js Frontend]
   F --> B[Spring Boot Backend]
   B --> D[(PostgreSQL Database)]
-  B --> M[(MongoDB - Analytics)]
-  B --> A[Authentication Service (JWT)]
-  B --> C[Cloud Deployment (AWS CDK + Jenkins)]
+  B --> M[(MongoDB Analytics)]
+  B --> A[Authentication Service - JWT]
+  B --> C[Cloud Deployment - AWS CDK & Jenkins]
+
