@@ -1,7 +1,5 @@
 # Insurance Dashboard Demo (Accenture Experience Showcase)
 
-# Insurance Dashboard Demo (Accenture Experience Showcase)
-
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![SpringBoot](https://img.shields.io/badge/Backend-SpringBoot-orange)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
