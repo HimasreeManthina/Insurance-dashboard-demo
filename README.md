@@ -1,5 +1,12 @@
 # Insurance Dashboard Demo (Accenture Experience Showcase)
 
+# Insurance Dashboard Demo (Accenture Experience Showcase)
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![SpringBoot](https://img.shields.io/badge/Backend-SpringBoot-orange)
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
+![CI/CD](https://img.shields.io/badge/Pipeline-CI%2FCD-lightgrey)
+
 ## 📌 Overview
 This repository is a **demo project inspired by my full-time work at Accenture (2021–2024)**.  
 While I cannot share client code, this repo **recreates similar responsibilities, architectures, and workflows** that I contributed to during my role as a Full Stack Developer.  
